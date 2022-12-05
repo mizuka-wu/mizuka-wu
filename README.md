@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![mizuka-wu's github stats](https://github-readme-stats.vercel.app/api?username=mizuka-wu&hide=stars)
+### Most used
+![mizuka-wu's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mizuka-wu&layout=compact&hide_title=true)
+
